@@ -8,7 +8,7 @@
 - 💬 Posso e estou disposto a colaborar em Projetos de Linguagem Python, em especial aqueles que envolvam a Biblioteca MatPlotLib. 
 - 🇧🇷🇬🇧🇩🇪 Fun fact.1: Fluente em Português, Inglês e Alemão. 
 - 🤸🏻👨🏻‍🎓 Fun fact.2: Eu sei resolver o Cubo Mágico enquanto faço abdominal [(Duvida? Clica aqui.)](https://youtu.be/NLvB8DGuCGU)
-- 🥁 Fun fact.3: Eu ainda toco bateria. Curte a banda canadense Rush? [Então clica aqui.](https://youtu.be/_hOj3-KCMOE)
+- 🥁 Fun fact.3: Eu toco bateria. Curte a banda canadense Rush? [Então clica aqui.](https://youtu.be/_hOj3-KCMOE)
 - 📫 Quer entrar em contato? Acesse: https://linktr.ee/AlessandroSchmidt
 
 ### Vida longa e prospera a todos 🖖🏻 🦾
