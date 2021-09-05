@@ -16,8 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-Schmidt&layout=demo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![ALe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alessandro-Schmidt&show_icons=true&theme=dark)
 <!--[![Estatísticas do meu uso:](https://github-readme-stats.vercel.app/api?username=Alessandro-Schmidt)](https://github.com/anuraghazra/github-readme-stats)-->
+---
+## Bons Estudos! 🖖🏻 🦾
 
-
-
-
-## Vida longa e prospera a todos 🖖🏻 🦾
+![giphy](https://user-images.githubusercontent.com/66293621/132117262-142d7a7f-1624-4b87-ba6e-2c8dd47c34b1.gif)
