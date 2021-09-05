@@ -11,4 +11,9 @@
 - 🥁 Fun fact.3: Eu toco bateria. Curte a banda canadense Rush? [Então clica aqui.](https://youtu.be/_hOj3-KCMOE)
 - 📫 Quer entrar em contato? Acesse: https://linktr.ee/AlessandroSchmidt
 
-### Vida longa e prospera a todos 🖖🏻 🦾
+---
+## Estatísticas: 
+[![Estatísticas do meu uso:](https://github-readme-stats.vercel.app/api?username=Alessandro-Schmidt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Vida longa e prospera a todos 🖖🏻 🦾
