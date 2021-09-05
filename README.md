@@ -1,6 +1,6 @@
 ## Este é o meu perfil do GitHub! Seja muito bem vindo 👋
 
-- 🔭 No momento, sou estudante do 2º período de Engenharia de Software na PUCPR. Faço pesquisa em práticas de desenvolvimento de Software e sou monitor de Resolução de Problemas com Lógica Matemática. 
+- 🔭 No momento, sou estudante do 2º período de Engenharia de Software na PUCPR. No momento trabalho na área de pesquisa científica em práticas de desenvolvimento de Software e sou monitor de Resolução de Problemas com Lógica Matemática. 
 - 👨🏻‍💻 O que me atrai na área da Tecnologia, é estar constantemente na fronteira do conhecimento humano.
 - 🌱 No momento, estou aprendendo JAVA, HTML, CSS, JavaScript, SQL, entre outras!
 - 👯 Espero colaborar com trabalhos universitários dos meus colegas, bem como todos aqueles interessados em Programação. 
