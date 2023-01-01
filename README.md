@@ -1,6 +1,6 @@
 ## Este é o meu perfil do GitHub! Seja muito bem vindo 👋
 
-- 🔭 No momento, sou estudante do 4º período de Engenharia de Software na PUCPR. No momento trabalho na área de pesquisa científica em práticas de desenvolvimento de Software. 
+- 🔭 No momento, sou estudante do 5º período de Engenharia de Software na PUCPR. 
 - 👨🏻‍💻 O que me atrai na área da Tecnologia, é estar constantemente na fronteira do conhecimento humano.
 - 🌱 No momento, estou aprendendo diferentes bibliotecas e recursos de várias linguagens!
 - 👯 Espero colaborar com trabalhos universitários dos meus colegas, bem como todos aqueles interessados em Programação. 
