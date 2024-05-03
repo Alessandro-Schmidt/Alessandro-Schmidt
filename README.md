@@ -1,3 +1,1 @@
-Desenvolvedor de Software da T-Systems do Brasil
-
-Estudante de Engenharia de Software PUCPR (7ºP)
+Systems analyst at T-Systems BR.
