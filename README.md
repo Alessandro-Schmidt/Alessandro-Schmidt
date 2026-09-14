@@ -8,8 +8,6 @@ Building the software behind Mercio at the intersection of **AI, retail & pricin
 
 > **Engineering things that think.**
 
-Currently exploring **agentic AI**, intelligent software systems, and the next generation of software engineering.
-
 Fluent in: 🇵🇹 🇪🇸 🇬🇧 🇩🇪 🇫🇷
 
 Paris, France
