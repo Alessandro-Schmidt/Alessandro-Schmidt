@@ -6,7 +6,7 @@ Building the software behind Mercio at the intersection of **AI, retail & pricin
 ![C++](https://img.shields.io/badge/C++-Systems-informational?logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-AI-informational?logo=python)
 
-> **Engineering things that think.**
+> **Those who do, win.**
 
 Fluent in: 🇵🇹 🇪🇸 🇬🇧 🇩🇪 🇫🇷
 
