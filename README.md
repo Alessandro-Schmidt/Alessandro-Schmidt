@@ -1,5 +1,3 @@
-# Alessandro Schmidt
-
 **Software Engineer @Mercio**  
 Building the software behind Mercio at the intersection of **AI, retail & pricing**.
 
