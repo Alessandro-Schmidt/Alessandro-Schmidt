@@ -10,4 +10,6 @@ Building the software behind Mercio at the intersection of **AI, retail & pricin
 
 Currently exploring **agentic AI**, intelligent software systems, and the next generation of software engineering.
 
-**5 languages** · Java / C++ / Spring / Python · Paris, France
+Fluent in: 🇵🇹 🇪🇸 🇬🇧 🇩🇪 🇫🇷
+
+Paris, France
