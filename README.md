@@ -1,5 +1,5 @@
 **Software Engineer @Mercio**  
-Building the software behind Mercio at the intersection of **AI, retail & pricing**.
+Building the software behind Mercio.
 
 ![Java](https://img.shields.io/badge/Java-Engineering-informational?logo=openjdk)
 ![Spring](https://img.shields.io/badge/Spring-Backend-informational?logo=spring)
