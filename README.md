@@ -1,5 +1,6 @@
 **Software Engineer @Mercio**  
-Building the software behind Mercio.
+
+Code. Mate. Repeat.
 
 ![Java](https://img.shields.io/badge/Java-Engineering-informational?logo=openjdk)
 ![Spring](https://img.shields.io/badge/Spring-Backend-informational?logo=spring)
