@@ -9,6 +9,4 @@ Code. Mate. Repeat.
 
 > **Those who do, win.**
 
-Fluent in: 🇵🇹 🇪🇸 🇬🇧 🇩🇪 🇫🇷
-
 Paris, France
