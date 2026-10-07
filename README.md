@@ -6,5 +6,3 @@
 ![Python](https://img.shields.io/badge/Python-AI-informational?logo=python)
 
 > **Those who do, win.**
-
-Paris, France
