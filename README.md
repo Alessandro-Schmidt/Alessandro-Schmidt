@@ -1,6 +1,4 @@
-**Software Engineer [@Mercio](https://www.mercio.io/fr)**  
-
-Code. Mate. Repeat.
+**Software Engineer [@Mercio](https://www.mercio.io/fr)**
 
 ![Java](https://img.shields.io/badge/Java-Engineering-informational?logo=openjdk)
 ![Spring](https://img.shields.io/badge/Spring-Backend-informational?logo=spring)
