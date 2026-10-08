@@ -5,4 +5,4 @@
 ![C++](https://img.shields.io/badge/C++-Systems-informational?logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-AI-informational?logo=python)
 
-> **Those who do, win.**
+> **Those who act, win.**
