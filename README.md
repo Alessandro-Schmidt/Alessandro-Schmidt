@@ -6,5 +6,4 @@ Software Engineer.
 ![Python](https://img.shields.io/badge/Python-AI-informational?logo=python)
 
 > **Those who act, win.**
-
-<img width="64" height="64" alt="mercio-app-icon-tight-256-removebg-preview" src="https://github.com/user-attachments/assets/291611d1-d938-487e-b4ed-80e609c812fa" />
+<img width="64" height="64" alt="mercio-app-icon-github-dark-256" src="https://github.com/user-attachments/assets/26cefed5-b106-436a-9e29-83b7502c2298" />
