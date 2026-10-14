@@ -7,4 +7,4 @@ Software Engineer.
 
 > **Those who act, win.**
 
-<img width="64" height="64" alt="mercio-app-icon-tight-256" src="https://github.com/user-attachments/assets/210fbc0a-db11-43dd-8521-d1eb6eee6440" />
+<img width="64" height="64" alt="mercio-app-icon-tight-256-removebg-preview" src="https://github.com/user-attachments/assets/291611d1-d938-487e-b4ed-80e609c812fa" />
