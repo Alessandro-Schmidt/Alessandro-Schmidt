@@ -1,4 +1,2 @@
-Software Engineer.
-
 > **Those who act, win.**
 <img width="50" height="50" alt="mercio-app-icon-github-dark-256" src="https://github.com/user-attachments/assets/26cefed5-b106-436a-9e29-83b7502c2298" />
