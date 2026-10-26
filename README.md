@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://mercio.io">
-  <img src="https://github.com/user-attachments/assets/26cefed5-b106-436a-9e29-83b7502c2298" width="110" alt="Mercio" />
+  <img src="https://github.com/user-attachments/assets/26cefed5-b106-436a-9e29-83b7502c2298" width="50" alt="Mercio" />
 </a>
 
 # Alessandro Schmidt
