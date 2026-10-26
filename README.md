@@ -1,1 +1,25 @@
-<img width="50" height="50" alt="mercio-app-icon-github-dark-256" src="https://github.com/user-attachments/assets/26cefed5-b106-436a-9e29-83b7502c2298" />
+<div align="center">
+
+<a href="https://mercio.io">
+  <img src="https://github.com/user-attachments/assets/26cefed5-b106-436a-9e29-83b7502c2298" width="110" alt="Mercio" />
+</a>
+
+# Alessandro Schmidt
+
+**Software Engineer · Paris <img src="https://flagcdn.com/w40/fr.png" width="20" alt="France" />**
+
+Java · Spring · React · Google Cloud · AI agents
+
+*Black belt in Spring, white belt in jiu-jitsu. Working on both.*
+
+<br>
+
+<a href="https://www.linkedin.com/in/alessandroschmidt">
+  <img src="assets/linkedin.svg" width="120" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:alessandro.schmidt@mercio.io">
+  <img src="assets/email.svg" width="120" alt="Email" />
+</a>
+
+</div>
