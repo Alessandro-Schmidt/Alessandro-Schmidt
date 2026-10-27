@@ -16,11 +16,9 @@ Java · Spring · React · Google Cloud · AI agents
 &nbsp;
 <a href="mailto:alessandromacielschmidt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/email.svg" width="120" alt="Email" /></a>
 
+<img src="assets/apps-label.svg" width="280" alt="Open-source apps" />
 <br>
-
-<sub>OPEN-SOURCE APPS</sub>
-
 <!-- One icon per app, side by side, each linking to its repository. -->
-<a href="https://github.com/Alessandro-Schmidt/YerazKnowledge" target="_blank" rel="noopener noreferrer" title="Yeraz Notes"><img src="assets/apps/yeraz.svg" width="52" alt="Yeraz Notes" /></a>
+<a href="https://github.com/Alessandro-Schmidt/YerazKnowledge" target="_blank" rel="noopener noreferrer" title="Yeraz Notes"><img src="assets/apps/yeraz.svg" width="80" alt="Yeraz Notes" /></a>
 
 </div>
