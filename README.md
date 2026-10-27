@@ -10,7 +10,7 @@
 *"It is not the mountain we conquer, but ourselves."*<br>
 <sub>- <a href="https://en.wikipedia.org/wiki/Edmund_Hillary" target="_blank" rel="noopener noreferrer">Edmund Hillary</a></sub>
 
-Java · Spring · React · Google Cloud · AI agents
+Java · Spring · SQL · Google Cloud · AI agents
 
 <a href="https://www.linkedin.com/in/alessandroschmidt" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin.svg" width="120" alt="LinkedIn" /></a>
 &nbsp;
