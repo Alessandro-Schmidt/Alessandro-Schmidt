@@ -1,9 +1,7 @@
 <div align="center">
-
 <a href="https://mercio.io" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/user-attachments/assets/26cefed5-b106-436a-9e29-83b7502c2298" width="64" alt="Mercio" />
 </a>
-
 # Alessandro Schmidt
 
 **Fullstack Software Engineer · Paris <img src="https://flagcdn.com/w40/fr.png" width="20" alt="France" />**
