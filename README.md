@@ -10,8 +10,6 @@
 
 Java · Spring · React · Google Cloud · AI agents
 
-*Black belt in Spring, white belt in jiu-jitsu. Working on both.*
-
 <br>
 
 <a href="https://www.linkedin.com/in/alessandroschmidt" target="_blank" rel="noopener noreferrer">
