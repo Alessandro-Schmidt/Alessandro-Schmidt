@@ -13,8 +13,6 @@
 
 Java · Spring · React · Google Cloud · AI agents
 
-<br>
-
 <a href="https://www.linkedin.com/in/alessandroschmidt" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin.svg" width="120" alt="LinkedIn" /></a>
 &nbsp;
 <a href="mailto:alessandromacielschmidt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/email.svg" width="120" alt="Email" /></a>
