@@ -7,8 +7,7 @@
 
 **Fullstack Software Engineer · Paris <img src="https://flagcdn.com/w40/fr.png" width="20" alt="France" />**
 
-*"It is not the mountain we conquer, but ourselves."*
-<sub> - <a href="https://en.wikipedia.org/wiki/Edmund_Hillary" target="_blank" rel="noopener noreferrer">Edmund Hillary</a></sub>
+*"It is not the mountain we conquer, but ourselves."* - <a href="https://en.wikipedia.org/wiki/Edmund_Hillary" target="_blank" rel="noopener noreferrer">Edmund Hillary</a>
 
 Java · Spring · C++ · SQL · AI Workflows
 
