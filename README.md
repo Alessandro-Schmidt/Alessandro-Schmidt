@@ -20,4 +20,13 @@ Java · Spring · React · Google Cloud · AI agents
   <img src="assets/email.svg" width="120" alt="Email" />
 </a>
 
+<br><br>
+
+### Apps
+
+<!-- One icon per app, side by side; each links to its open-source repository. -->
+<a href="https://github.com/Alessandro-Schmidt/YerazKnowledge" target="_blank" rel="noopener noreferrer" title="Yeraz Notes">
+  <img src="assets/apps/yeraz.svg" width="64" alt="Yeraz Notes" />
+</a>
+
 </div>
