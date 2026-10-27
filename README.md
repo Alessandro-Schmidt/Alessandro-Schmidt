@@ -18,7 +18,7 @@ Java · Spring · React · Google Cloud · AI agents
   <img src="assets/linkedin.svg" width="120" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:alessandro.schmidt@mercio.io" target="_blank" rel="noopener noreferrer">
+<a href="mailto:alessandromacielschmidt@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="assets/email.svg" width="120" alt="Email" />
 </a>
 
