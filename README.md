@@ -19,5 +19,5 @@ Java · Spring · C++ · SQL · AI Workflows
 <br>
 <!-- One icon per app, side by side, each linking to its repository. -->
 <a href="https://github.com/Yeraz-Notes" target="_blank" rel="noopener noreferrer" title="Yeraz Notes"><img src="assets/apps/yeraz.svg" width="80" alt="Yeraz Notes" /></a>
-
+<a href="https://github.com/Silverback-corp" target="_blank" rel="noopener noreferrer" title="Yeraz Notes"><img src="assets/apps/silverback-desktop.svg" width="80" alt="Silverback" /></a>
 </div>
