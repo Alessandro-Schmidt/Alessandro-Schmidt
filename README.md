@@ -20,5 +20,5 @@ Java · Spring · C++ · SQL · AI Workflows
 <!-- One icon per app, side by side, each linking to its repository. -->
 <a href="https://github.com/Yeraz-Notes" target="_blank" rel="noopener noreferrer" title="Yeraz Notes"><img src="assets/apps/yeraz.svg" width="80" alt="Yeraz Notes" /></a>
 <a href="https://github.com/Alessandro-Schmidt/Silverback-Dashboard" target="_blank" rel="noopener noreferrer" title="Yeraz Notes"><img src="assets/apps/silverback-desktop.svg" width="80" alt="Silverback" /></a>
-<a href="https://github.com/Alessandro-Schmidt/ZakaryanBoards" target="_blank" rel="noopener noreferrer" title="Belvedere"><img src="assets/apps/belvedere.png" width="80" alt="Belvedere" /></a>
+<a href="https://github.com/Alessandro-Schmidt/BelvedereBoards" target="_blank" rel="noopener noreferrer" title="Belvedere"><img src="assets/apps/belvedere.png" width="80" alt="Belvedere" /></a>
 </div>
