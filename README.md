@@ -13,7 +13,7 @@ Java · Spring · C++ · SQL · AI Workflows
 
 <a href="https://www.linkedin.com/in/alessandroschmidt" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin.svg" width="120" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:alessandromacielschmidt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/email.svg" width="120" alt="Email" /></a>
+<a href="mailto:alessandromacielschmidt@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/email.svg" width="120" alt="Email" /></a>
 
 <img src="assets/apps-label.svg" width="280" alt="Open-source apps" />
 <br>
