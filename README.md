@@ -9,8 +9,6 @@
 
 *"It is not the mountain we conquer, but ourselves."* - Edmund Hillary
 
-Java · Spring · C++ · SQL · AI Workflows
-
 <a href="https://www.linkedin.com/in/alessandroschmidt" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin.svg" width="120" alt="LinkedIn" /></a>
 &nbsp;
 <a href="mailto:alessandromacielschmidt@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/email.svg" width="120" alt="Email" /></a>
