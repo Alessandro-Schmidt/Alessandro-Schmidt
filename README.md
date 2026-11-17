@@ -3,11 +3,7 @@
   <img src="https://github.com/user-attachments/assets/26cefed5-b106-436a-9e29-83b7502c2298" width="64" alt="Mercio" />
 </a>
 
-# Alessandro Schmidt
-
 **Fullstack Software Engineer · Paris <img src="https://flagcdn.com/w40/fr.png" width="20" alt="France" />**
-
-*"It is not the mountain we conquer, but ourselves."* - Edmund Hillary
 
 <a href="https://www.linkedin.com/in/alessandroschmidt" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin.svg" width="120" alt="LinkedIn" /></a>
 &nbsp;
